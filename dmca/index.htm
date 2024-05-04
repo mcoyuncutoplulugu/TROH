@@ -1,0 +1,102 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>DMCA Report Form</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" href="../webroot/img/logo/Tr.link-Favicon-v2-purple.svg">
+<link rel="stylesheet" type="text/css" href="../webroot/cdn/iletisim/vendor/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="../webroot/cdn/iletisim/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="../webroot/cdn/iletisim/css/main.css">
+<link href="../css2-2?family=Quicksand:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="../webroot/cdn/iletisim/css/custom.css">
+</head>
+<body>
+<div class="container-contact100">
+<div class="wrap-contact100">
+<form action="" method="POST" class="contact100-form validate-form">
+<span class="contact100-form-title">
+DMCA Report Form
+</span>
+<div class="wrap-input100 validate-input" data-validate="Name is required">
+<input class="input100" type="text" name="name" placeholder="Name" value="">
+<span class="focus-input100"></span>
+</div>
+<div class="wrap-input100 validate-input" data-validate="Valid email is required: ex@email.com">
+<input id="email" class="input100" type="text" name="email" placeholder="Email" value="">
+<span class="focus-input100"></span>
+</div>
+<div class="form-group mt-4 mb-0">
+<label for="dmca">
+<input type="radio" value="dmca" id="dmca" name="type" checked="" required="" selected=""> DMCA
+</label>
+<label for="abuse" class="ml-4">
+<input type="radio" value="abuse" id="abuse" name="type" required=""> Abuse
+</label>
+</div>
+<div class="multiple-rows">
+<table class="table">
+<tbody>
+<tr>
+<td width="93%">
+<div class="wrap-input100 validate-input" data-validate="Shortened URL is required" style="margin-top: 0">
+<input type="url" class="input100" type="text" name="url[]" placeholder="Shortened URL" value="">
+<span class="focus-input100"></span>
+</div>
+</td>
+<td width="7%" class="text-center"><a href="javascript:;" class="btn btn-success btn-add"><i class="fa fa-plus"></i></a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="wrap-input100 validate-input" data-validate="Message is required">
+<textarea class="input100" name="message" placeholder="Message" minlength="50"></textarea>
+<span class="focus-input100"></span>
+</div>
+<div class="form-group mt-3">
+<script src="../recaptcha/api-1.js" type="f2f8681cbdc1e560e897839e-text/javascript"></script>
+<div class="g-recaptcha" data-sitekey="6LcAWdAZAAAAAJGvFo0ssunsXt74PEReY1rTUCWC"></div>
+</div>
+<div class="container-contact100-form-btn">
+<button class="contact100-form-btn">
+Send Message
+</button>
+</div>
+</form>
+</div>
+</div>
+<script src="../cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="f2f8681cbdc1e560e897839e-|49" defer=""></script></body>
+<script src="../webroot/cdn/iletisim/vendor/jquery/jquery-3.2.1.min.js" type="f2f8681cbdc1e560e897839e-text/javascript"></script>
+<script src="../webroot/cdn/iletisim/vendor/animsition/js/animsition.min.js" type="f2f8681cbdc1e560e897839e-text/javascript"></script>
+<script src="../webroot/cdn/iletisim/vendor/bootstrap/js/popper.js" type="f2f8681cbdc1e560e897839e-text/javascript"></script>
+<script src="../webroot/cdn/iletisim/vendor/bootstrap/js/bootstrap.min.js" type="f2f8681cbdc1e560e897839e-text/javascript"></script>
+<script src="../webroot/cdn/iletisim/js/main.js" type="f2f8681cbdc1e560e897839e-text/javascript"></script>
+<script type="f2f8681cbdc1e560e897839e-text/javascript">
+	$(function(){
+		let row_html = 
+		'<tr>'+
+			'<td>'+
+				'<div class="wrap-input100">'+
+					'<input type="url" class="input100" type="text" name="url[]" placeholder="Shortened URL" required />'+
+					'<span class="focus-input100"></span>'+
+				'</div>'+
+			'</td>'+
+			'<td class="text-center"><a href="javascript:;" class="btn btn-danger btn-remove"><i class="fa fa-minus"></i></a></td>'+
+		'</tr>';
+		
+		let table = $('.multiple-rows table');
+		
+		$(document).on('click', '.btn-add', function(){
+			table.find('tbody').append(row_html);
+		});
+		
+		$(document).on('click', '.btn-remove', function(){
+			$(this).closest('tr').hide(200, function(){
+				$(this).remove();
+			});
+		});
+			
+	});
+</script>
+</html>
