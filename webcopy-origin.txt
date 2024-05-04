@@ -1,0 +1,1660 @@
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\tr.link\npm\bootstrap@5.0.2\dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js
+File Name: C:\Downloaded Web Sites\tr.link\ajax\libs\animejs\2.0.2\anime.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js
+File Name: C:\Downloaded Web Sites\tr.link\ajax\libs\jquery\3.6.4\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js
+File Name: C:\Downloaded Web Sites\tr.link\ajax\libs\slick-carousel\1.9.0\slick.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap
+File Name: C:\Downloaded Web Sites\tr.link\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\tr.link\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\tr.link\css2-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/icon?family=Material+Icons
+File Name: C:\Downloaded Web Sites\tr.link\icon
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/materialicons/v142/flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf
+File Name: C:\Downloaded Web Sites\tr.link\s\materialicons\v142\flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsS9-SvHg.ttf
+File Name: C:\Downloaded Web Sites\tr.link\s\mulish\v13\1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsS9-SvHg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSd-OvHg.ttf
+File Name: C:\Downloaded Web Sites\tr.link\s\mulish\v13\1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSd-OvHg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSG-OvHg.ttf
+File Name: C:\Downloaded Web Sites\tr.link\s\mulish\v13\1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSG-OvHg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSKeOvHg.ttf
+File Name: C:\Downloaded Web Sites\tr.link\s\mulish\v13\1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSKeOvHg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSqeSvHg.ttf
+File Name: C:\Downloaded Web Sites\tr.link\s\mulish\v13\1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSqeSvHg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSzuSvHg.ttf
+File Name: C:\Downloaded Web Sites\tr.link\s\mulish\v13\1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSzuSvHg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexaFRwaA.ttf
+File Name: C:\Downloaded Web Sites\tr.link\s\mulish\v13\1Ptyg83HX_SGhgqO0yLcmjzUAuWexaFRwaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexc1RwaA.ttf
+File Name: C:\Downloaded Web Sites\tr.link\s\mulish\v13\1Ptyg83HX_SGhgqO0yLcmjzUAuWexc1RwaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexRNRwaA.ttf
+File Name: C:\Downloaded Web Sites\tr.link\s\mulish\v13\1Ptyg83HX_SGhgqO0yLcmjzUAuWexRNRwaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexRNWwaA.ttf
+File Name: C:\Downloaded Web Sites\tr.link\s\mulish\v13\1Ptyg83HX_SGhgqO0yLcmjzUAuWexRNWwaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexU1WwaA.ttf
+File Name: C:\Downloaded Web Sites\tr.link\s\mulish\v13\1Ptyg83HX_SGhgqO0yLcmjzUAuWexU1WwaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexXRWwaA.ttf
+File Name: C:\Downloaded Web Sites\tr.link\s\mulish\v13\1Ptyg83HX_SGhgqO0yLcmjzUAuWexXRWwaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v13/1Ptyg83HX_SGhgqO0yLcmjzUAuWexZNRwaA.ttf
+File Name: C:\Downloaded Web Sites\tr.link\s\mulish\v13\1Ptyg83HX_SGhgqO0yLcmjzUAuWexZNRwaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Downloaded Web Sites\tr.link\s\poppins\v21\pxiByp8kv8JHgFVrLBT5V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\tr.link\s\poppins\v21\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: C:\Downloaded Web Sites\tr.link\s\poppins\v21\pxiByp8kv8JHgFVrLDD4V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Downloaded Web Sites\tr.link\s\poppins\v21\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\tr.link\s\poppins\v21\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLFj_V1s.ttf
+File Name: C:\Downloaded Web Sites\tr.link\s\poppins\v21\pxiByp8kv8JHgFVrLFj_V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\tr.link\s\poppins\v21\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\tr.link\s\poppins\v21\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrLPTedw.ttf
+File Name: C:\Downloaded Web Sites\tr.link\s\poppins\v21\pxiGyp8kv8JHgFVrLPTedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkBgv18E.ttf
+File Name: C:\Downloaded Web Sites\tr.link\s\quicksand\v31\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkBgv18E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkCEv18E.ttf
+File Name: C:\Downloaded Web Sites\tr.link\s\quicksand\v31\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkCEv18E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkKEo18E.ttf
+File Name: C:\Downloaded Web Sites\tr.link\s\quicksand\v31\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkKEo18E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkM0o18E.ttf
+File Name: C:\Downloaded Web Sites\tr.link\s\quicksand\v31\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkM0o18E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o18E.ttf
+File Name: C:\Downloaded Web Sites\tr.link\s\quicksand\v31\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o18E.ttf
+Content Type: font/ttf
+
+Uri: https://tr.link/
+File Name: C:\Downloaded Web Sites\tr.link\index.htm
+Content Type: text/html
+
+Uri: https://tr.link/auth/forgot-password
+File Name: C:\Downloaded Web Sites\tr.link\auth\forgot-password.html
+Content Type: text/html
+
+Uri: https://tr.link/auth/signin
+File Name: C:\Downloaded Web Sites\tr.link\auth\signin.html
+Content Type: text/html
+
+Uri: https://tr.link/auth/signin?cleared=true
+File Name: C:\Downloaded Web Sites\tr.link\auth\signin-1.html
+Content Type: text/html
+
+Uri: https://tr.link/auth/signup
+File Name: C:\Downloaded Web Sites\tr.link\auth\signup.html
+Content Type: text/html
+
+Uri: https://tr.link/blog/
+File Name: C:\Downloaded Web Sites\tr.link\blog\index.htm
+Content Type: text/html
+
+Uri: https://tr.link/blog/assets/css/custom.css?v1
+File Name: C:\Downloaded Web Sites\tr.link\blog\assets\css\custom-1.css
+Content Type: text/css
+
+Uri: https://tr.link/blog/assets/css/custom.css?v=1
+File Name: C:\Downloaded Web Sites\tr.link\blog\assets\css\custom.css
+Content Type: text/css
+
+Uri: https://tr.link/blog/assets/img/chain.png
+File Name: C:\Downloaded Web Sites\tr.link\blog\assets\img\chain.png
+Content Type: image/png
+
+Uri: https://tr.link/blog/assets/img/cihazlars.png
+File Name: C:\Downloaded Web Sites\tr.link\blog\assets\img\cihazlars.png
+Content Type: image/png
+
+Uri: https://tr.link/blog/assets/img/cpm-nedir.jpg
+File Name: C:\Downloaded Web Sites\tr.link\blog\assets\img\cpm-nedir.jpg
+Content Type: image/jpeg
+
+Uri: https://tr.link/blog/assets/img/degisim.jpg
+File Name: C:\Downloaded Web Sites\tr.link\blog\assets\img\degisim.jpg
+Content Type: image/jpeg
+
+Uri: https://tr.link/blog/assets/img/dijital-pazarlama-icin-bilmeniz-gereken-temel-kavramlar-ve-anlamlari.jpg
+File Name: C:\Downloaded Web Sites\tr.link\blog\assets\img\dijital-pazarlama-icin-bilmeniz-gereken-temel-kavramlar-ve-anlamlari.jpg
+Content Type: image/jpeg
+
+Uri: https://tr.link/blog/assets/img/dolar-gonderiminde-kripto-para-nasil-kullanilir.png
+File Name: C:\Downloaded Web Sites\tr.link\blog\assets\img\dolar-gonderiminde-kripto-para-nasil-kullanilir.png
+Content Type: image/png
+
+Uri: https://tr.link/blog/assets/img/hangi-sosyal-medya-platformlarinda-link-paylasilabilir.png
+File Name: C:\Downloaded Web Sites\tr.link\blog\assets\img\hangi-sosyal-medya-platformlarinda-link-paylasilabilir.png
+Content Type: image/png
+
+Uri: https://tr.link/blog/assets/img/huaweis.png
+File Name: C:\Downloaded Web Sites\tr.link\blog\assets\img\huaweis.png
+Content Type: image/png
+
+Uri: https://tr.link/blog/assets/img/instagram-takipci-satin-al.jpg
+File Name: C:\Downloaded Web Sites\tr.link\blog\assets\img\instagram-takipci-satin-al.jpg
+Content Type: image/jpeg
+
+Uri: https://tr.link/blog/assets/img/ip.jpg
+File Name: C:\Downloaded Web Sites\tr.link\blog\assets\img\ip.jpg
+Content Type: image/jpeg
+
+Uri: https://tr.link/blog/assets/img/kripto-para-transferleri-takip-edilebilir-mi.jpg
+File Name: C:\Downloaded Web Sites\tr.link\blog\assets\img\kripto-para-transferleri-takip-edilebilir-mi.jpg
+Content Type: image/jpeg
+
+Uri: https://tr.link/blog/assets/img/link-kisaltarak-nasil-para-kazanilir.jpg
+File Name: C:\Downloaded Web Sites\tr.link\blog\assets\img\link-kisaltarak-nasil-para-kazanilir.jpg
+Content Type: image/jpeg
+
+Uri: https://tr.link/blog/assets/img/markalars.png
+File Name: C:\Downloaded Web Sites\tr.link\blog\assets\img\markalars.png
+Content Type: image/png
+
+Uri: https://tr.link/blog/assets/img/opendisk-dosya-yukle-indirme-basina-para-kazan.png
+File Name: C:\Downloaded Web Sites\tr.link\blog\assets\img\opendisk-dosya-yukle-indirme-basina-para-kazan.png
+Content Type: image/png
+
+Uri: https://tr.link/blog/assets/img/oppos.png
+File Name: C:\Downloaded Web Sites\tr.link\blog\assets\img\oppos.png
+Content Type: image/png
+
+Uri: https://tr.link/blog/assets/img/samsungs.png
+File Name: C:\Downloaded Web Sites\tr.link\blog\assets\img\samsungs.png
+Content Type: image/png
+
+Uri: https://tr.link/blog/assets/img/sokak-hayvanlarına-destek-ol.jpg
+File Name: C:\Downloaded Web Sites\tr.link\blog\assets\img\sokak-hayvanlarına-destek-ol.jpg
+Content Type: image/jpeg
+
+Uri: https://tr.link/blog/assets/img/targets.jpg
+File Name: C:\Downloaded Web Sites\tr.link\blog\assets\img\targets.jpg
+Content Type: image/jpeg
+
+Uri: https://tr.link/blog/assets/img/telegram-uzerinden-link-paylasarak-para-kazanma.jpg
+File Name: C:\Downloaded Web Sites\tr.link\blog\assets\img\telegram-uzerinden-link-paylasarak-para-kazanma.jpg
+Content Type: image/jpeg
+
+Uri: https://tr.link/blog/assets/img/tr.link-Logo-Animasyon.gif
+File Name: C:\Downloaded Web Sites\tr.link\blog\assets\img\tr.link-Logo-Animasyon.gif
+Content Type: image/gif
+
+Uri: https://tr.link/blog/assets/img/trlink-9-yasinda-cekilis.webp
+File Name: C:\Downloaded Web Sites\tr.link\blog\assets\img\trlink-9-yasinda-cekilis.webp
+Content Type: image/webp
+
+Uri: https://tr.link/blog/assets/img/trlink-9uncu-yasina-ozel-dev-cekilis-sonuclandi.webp
+File Name: C:\Downloaded Web Sites\tr.link\blog\assets\img\trlink-9uncu-yasina-ozel-dev-cekilis-sonuclandi.webp
+Content Type: image/webp
+
+Uri: https://tr.link/blog/assets/img/turkiyede-en-yaygin-kullanilan-cihazlar.png
+File Name: C:\Downloaded Web Sites\tr.link\blog\assets\img\turkiyede-en-yaygin-kullanilan-cihazlar.png
+Content Type: image/png
+
+Uri: https://tr.link/blog/assets/img/twitter-uzerinden-link-paylasarak-para-kazanma.jpg
+File Name: C:\Downloaded Web Sites\tr.link\blog\assets\img\twitter-uzerinden-link-paylasarak-para-kazanma.jpg
+Content Type: image/jpeg
+
+Uri: https://tr.link/blog/assets/img/vpn.jpg
+File Name: C:\Downloaded Web Sites\tr.link\blog\assets\img\vpn.jpg
+Content Type: image/jpeg
+
+Uri: https://tr.link/blog/assets/img/xiaomis.png
+File Name: C:\Downloaded Web Sites\tr.link\blog\assets\img\xiaomis.png
+Content Type: image/png
+
+Uri: https://tr.link/blog/cpm-nedir-nasil-hesaplanir
+File Name: C:\Downloaded Web Sites\tr.link\blog\cpm-nedir-nasil-hesaplanir.html
+Content Type: text/html
+
+Uri: https://tr.link/blog/dijital-pazarlama-icin-bilmeniz-gereken-temel-kavramlar-ve-anlamlari
+File Name: C:\Downloaded Web Sites\tr.link\blog\dijital-pazarlama-icin-bilmeniz-gereken-temel-kavramlar-ve-anlamlari.html
+Content Type: text/html
+
+Uri: https://tr.link/blog/dolar-gonderiminde-kripto-para-nasil-kullanilir
+File Name: C:\Downloaded Web Sites\tr.link\blog\dolar-gonderiminde-kripto-para-nasil-kullanilir.html
+Content Type: text/html
+
+Uri: https://tr.link/blog/donusum-takibi-nasil-yapilir
+File Name: C:\Downloaded Web Sites\tr.link\blog\donusum-takibi-nasil-yapilir.html
+Content Type: text/html
+
+Uri: https://tr.link/blog/hangi-sosyal-medya-platformlarinda-link-paylasilabilir
+File Name: C:\Downloaded Web Sites\tr.link\blog\hangi-sosyal-medya-platformlarinda-link-paylasilabilir.html
+Content Type: text/html
+
+Uri: https://tr.link/blog/instagram-takipci-satin-al
+File Name: C:\Downloaded Web Sites\tr.link\blog\instagram-takipci-satin-al.html
+Content Type: text/html
+
+Uri: https://tr.link/blog/kripto-para-transferleri-takip-edilebilir-mi
+File Name: C:\Downloaded Web Sites\tr.link\blog\kripto-para-transferleri-takip-edilebilir-mi.html
+Content Type: text/html
+
+Uri: https://tr.link/blog/link-kisaltarak-nasil-para-kazanilir
+File Name: C:\Downloaded Web Sites\tr.link\blog\link-kisaltarak-nasil-para-kazanilir.html
+Content Type: text/html
+
+Uri: https://tr.link/blog/opendisk-dosya-yukle-indirme-basina-para-kazan
+File Name: C:\Downloaded Web Sites\tr.link\blog\opendisk-dosya-yukle-indirme-basina-para-kazan.html
+Content Type: text/html
+
+Uri: https://tr.link/blog/sokak-hayvanlarina-destek-ol
+File Name: C:\Downloaded Web Sites\tr.link\blog\sokak-hayvanlarina-destek-ol.html
+Content Type: text/html
+
+Uri: https://tr.link/blog/statik-ip-nedir
+File Name: C:\Downloaded Web Sites\tr.link\blog\statik-ip-nedir.html
+Content Type: text/html
+
+Uri: https://tr.link/blog/telegram-uzerinden-link-paylasarak-para-kazanma
+File Name: C:\Downloaded Web Sites\tr.link\blog\telegram-uzerinden-link-paylasarak-para-kazanma.html
+Content Type: text/html
+
+Uri: https://tr.link/blog/trlink-9uncu-yasina-ozel-dev-cekilis
+File Name: C:\Downloaded Web Sites\tr.link\blog\trlink-9uncu-yasina-ozel-dev-cekilis.html
+Content Type: text/html
+
+Uri: https://tr.link/blog/trlink-9uncu-yasina-ozel-dev-cekilis-sonuclandi
+File Name: C:\Downloaded Web Sites\tr.link\blog\trlink-9uncu-yasina-ozel-dev-cekilis-sonuclandi.html
+Content Type: text/html
+
+Uri: https://tr.link/blog/trlink-yeni-logosu
+File Name: C:\Downloaded Web Sites\tr.link\blog\trlink-yeni-logosu.html
+Content Type: text/html
+
+Uri: https://tr.link/blog/turkiye-de-en-yaygin-kullanilan-cihazlar
+File Name: C:\Downloaded Web Sites\tr.link\blog\turkiye-de-en-yaygin-kullanilan-cihazlar.html
+Content Type: text/html
+
+Uri: https://tr.link/blog/twitter-uzerinden-link-paylasarak-para-kazanma
+File Name: C:\Downloaded Web Sites\tr.link\blog\twitter-uzerinden-link-paylasarak-para-kazanma.html
+Content Type: text/html
+
+Uri: https://tr.link/blog/vpn-nedir-nasil-calisir-ne-ise-yarar
+File Name: C:\Downloaded Web Sites\tr.link\blog\vpn-nedir-nasil-calisir-ne-ise-yarar.html
+Content Type: text/html
+
+Uri: https://tr.link/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\tr.link\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://tr.link/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\tr.link\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://tr.link/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\tr.link\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://tr.link/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\tr.link\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://tr.link/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\tr.link\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://tr.link/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\tr.link\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://tr.link/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\tr.link\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://tr.link/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\tr.link\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://tr.link/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\tr.link\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://tr.link/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\tr.link\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://tr.link/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\tr.link\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://tr.link/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\tr.link\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://tr.link/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+File Name: C:\Downloaded Web Sites\tr.link\cdn-cgi\scripts\7d0fa10a\cloudflare-static\rocket-loader.min.js
+Content Type: application/javascript
+
+Uri: https://tr.link/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\tr.link\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://tr.link/contract
+File Name: C:\Downloaded Web Sites\tr.link\contract.html
+Content Type: text/html
+
+Uri: https://tr.link/contract.php
+File Name: C:\Downloaded Web Sites\tr.link\contract.php.html
+Content Type: text/html
+
+Uri: https://tr.link/dmca/
+File Name: C:\Downloaded Web Sites\tr.link\dmca\index.htm
+Content Type: text/html
+
+Uri: https://tr.link/privacy
+File Name: C:\Downloaded Web Sites\tr.link\privacy.html
+Content Type: text/html
+
+Uri: https://tr.link/publishers-rates
+File Name: C:\Downloaded Web Sites\tr.link\publishers-rates.html
+Content Type: text/html
+
+Uri: https://tr.link/ui/assets/css/auth.css?v=1.3
+File Name: C:\Downloaded Web Sites\tr.link\ui\assets\css\auth.css
+Content Type: text/css
+
+Uri: https://tr.link/ui/assets/images/bg/bg-2-v2-dark.svg
+File Name: C:\Downloaded Web Sites\tr.link\ui\assets\images\bg\bg-2-v2-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/ui/assets/images/bg/bg-2-v2.svg
+File Name: C:\Downloaded Web Sites\tr.link\ui\assets\images\bg\bg-2-v2.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/ui/assets/images/bg/bg-2.svg
+File Name: C:\Downloaded Web Sites\tr.link\ui\assets\images\bg\bg-2.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/ui/assets/images/payment/bank.png
+File Name: C:\Downloaded Web Sites\tr.link\ui\assets\images\payment\bank.png
+Content Type: image/png
+
+Uri: https://tr.link/ui/assets/images/payment/litecoin.png
+File Name: C:\Downloaded Web Sites\tr.link\ui\assets\images\payment\litecoin.png
+Content Type: image/png
+
+Uri: https://tr.link/ui/assets/images/payment/papara.png
+File Name: C:\Downloaded Web Sites\tr.link\ui\assets\images\payment\papara.png
+Content Type: image/png
+
+Uri: https://tr.link/ui/assets/images/payment/payeer.png
+File Name: C:\Downloaded Web Sites\tr.link\ui\assets\images\payment\payeer.png
+Content Type: image/png
+
+Uri: https://tr.link/ui/assets/images/payment/tether.png
+File Name: C:\Downloaded Web Sites\tr.link\ui\assets\images\payment\tether.png
+Content Type: image/png
+
+Uri: https://tr.link/ui/assets/plugins/fontawesome-free-6.4.2/css/all.min.css
+File Name: C:\Downloaded Web Sites\tr.link\ui\assets\plugins\fontawesome-free-6.4.2\css\all.min.css
+Content Type: text/css
+
+Uri: https://tr.link/ui/assets/plugins/fontawesome-free-6.4.2/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\tr.link\ui\assets\plugins\fontawesome-free-6.4.2\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://tr.link/ui/assets/plugins/fontawesome-free-6.4.2/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\tr.link\ui\assets\plugins\fontawesome-free-6.4.2\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://tr.link/ui/assets/plugins/fontawesome-free-6.4.2/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\tr.link\ui\assets\plugins\fontawesome-free-6.4.2\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://tr.link/ui/assets/plugins/fontawesome-free-6.4.2/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\tr.link\ui\assets\plugins\fontawesome-free-6.4.2\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://tr.link/ui/assets/plugins/fontawesome-free-6.4.2/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\tr.link\ui\assets\plugins\fontawesome-free-6.4.2\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://tr.link/ui/assets/plugins/fontawesome-free-6.4.2/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\tr.link\ui\assets\plugins\fontawesome-free-6.4.2\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://tr.link/ui/assets/plugins/fontawesome-free-6.4.2/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\tr.link\ui\assets\plugins\fontawesome-free-6.4.2\webfonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://tr.link/ui/assets/plugins/fontawesome-free-6.4.2/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\tr.link\ui\assets\plugins\fontawesome-free-6.4.2\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://tr.link/ui/trlink/css/custom.css?v=1.2
+File Name: C:\Downloaded Web Sites\tr.link\ui\trlink\css\custom.css
+Content Type: text/css
+
+Uri: https://tr.link/ui/trlink/css/custom.css?v=1714703276
+File Name: C:\Downloaded Web Sites\tr.link\ui\trlink\css\custom-1.css
+Content Type: text/css
+
+Uri: https://tr.link/ui/trlink/css/custom.css?v=1714703277
+File Name: C:\Downloaded Web Sites\tr.link\ui\trlink\css\custom-2.css
+Content Type: text/css
+
+Uri: https://tr.link/ui/trlink/css/custom.css?v=1714703280
+File Name: C:\Downloaded Web Sites\tr.link\ui\trlink\css\custom-3.css
+Content Type: text/css
+
+Uri: https://tr.link/ui/trlink/css/custom.css?v=1714703293
+File Name: C:\Downloaded Web Sites\tr.link\ui\trlink\css\custom-4.css
+Content Type: text/css
+
+Uri: https://tr.link/ui/trlink/css/custom.css?v=1714703294
+File Name: C:\Downloaded Web Sites\tr.link\ui\trlink\css\custom-5.css
+Content Type: text/css
+
+Uri: https://tr.link/ui/trlink/css/custom.css?v=1714703296
+File Name: C:\Downloaded Web Sites\tr.link\ui\trlink\css\custom-6.css
+Content Type: text/css
+
+Uri: https://tr.link/ui/trlink/css/custom.css?v=1714703373
+File Name: C:\Downloaded Web Sites\tr.link\ui\trlink\css\custom-7.css
+Content Type: text/css
+
+Uri: https://tr.link/ui/trlink/css/custom.css?v=1714703374
+File Name: C:\Downloaded Web Sites\tr.link\ui\trlink\css\custom-8.css
+Content Type: text/css
+
+Uri: https://tr.link/ui/trlink/css/custom.css?v=1714703375
+File Name: C:\Downloaded Web Sites\tr.link\ui\trlink\css\custom-9.css
+Content Type: text/css
+
+Uri: https://tr.link/ui/trlink/css/custom.css?v=1714703376
+File Name: C:\Downloaded Web Sites\tr.link\ui\trlink\css\custom-10.css
+Content Type: text/css
+
+Uri: https://tr.link/ui/trlink/css/custom.css?v=1714703377
+File Name: C:\Downloaded Web Sites\tr.link\ui\trlink\css\custom-11.css
+Content Type: text/css
+
+Uri: https://tr.link/ui/trlink/css/custom.css?v=1714703378
+File Name: C:\Downloaded Web Sites\tr.link\ui\trlink\css\custom-12.css
+Content Type: text/css
+
+Uri: https://tr.link/ui/trlink/css/plugins.css
+File Name: C:\Downloaded Web Sites\tr.link\ui\trlink\css\plugins.css
+Content Type: text/css
+
+Uri: https://tr.link/ui/trlink/css/style.css
+File Name: C:\Downloaded Web Sites\tr.link\ui\trlink\css\style.css
+Content Type: text/css
+
+Uri: https://tr.link/ui/trlink/img/night.png
+File Name: C:\Downloaded Web Sites\tr.link\ui\trlink\img\night.png
+Content Type: image/png
+
+Uri: https://tr.link/ui/trlink/img/sunny.png
+File Name: C:\Downloaded Web Sites\tr.link\ui\trlink\img\sunny.png
+Content Type: image/png
+
+Uri: https://tr.link/ui/trlink/js/custom.js
+File Name: C:\Downloaded Web Sites\tr.link\ui\trlink\js\custom.js
+Content Type: application/javascript
+
+Uri: https://tr.link/ui/trlink/js/custom.js?v=1.1.81
+File Name: C:\Downloaded Web Sites\tr.link\ui\trlink\js\custom-1.js
+Content Type: application/javascript
+
+Uri: https://tr.link/ui/trlink/js/plugins.js
+File Name: C:\Downloaded Web Sites\tr.link\ui\trlink\js\plugins.js
+Content Type: application/javascript
+
+Uri: https://tr.link/webroot/cdn/assets/js/app.js?ver=4.5.1
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\assets\js\app.js
+Content Type: application/javascript
+
+Uri: https://tr.link/webroot/cdn/iletisim/css/custom.css
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\iletisim\css\custom.css
+Content Type: text/css
+
+Uri: https://tr.link/webroot/cdn/iletisim/css/main.css
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\iletisim\css\main.css
+Content Type: text/css
+
+Uri: https://tr.link/webroot/cdn/iletisim/fonts/font-awesome-4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\iletisim\fonts\font-awesome-4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://tr.link/webroot/cdn/iletisim/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\iletisim\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tr.link/webroot/cdn/iletisim/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\iletisim\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tr.link/webroot/cdn/iletisim/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\iletisim\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/iletisim/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\iletisim\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://tr.link/webroot/cdn/iletisim/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\iletisim\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://tr.link/webroot/cdn/iletisim/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\iletisim\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://tr.link/webroot/cdn/iletisim/js/main.js
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\iletisim\js\main.js
+Content Type: application/javascript
+
+Uri: https://tr.link/webroot/cdn/iletisim/vendor/animsition/js/animsition.min.js
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\iletisim\vendor\animsition\js\animsition.min.js
+Content Type: application/javascript
+
+Uri: https://tr.link/webroot/cdn/iletisim/vendor/bootstrap/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\iletisim\vendor\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://tr.link/webroot/cdn/iletisim/vendor/bootstrap/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\iletisim\vendor\bootstrap\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://tr.link/webroot/cdn/iletisim/vendor/bootstrap/js/popper.js
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\iletisim\vendor\bootstrap\js\popper.js
+Content Type: application/javascript
+
+Uri: https://tr.link/webroot/cdn/iletisim/vendor/jquery/jquery-3.2.1.min.js
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\iletisim\vendor\jquery\jquery-3.2.1.min.js
+Content Type: application/javascript
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/ad.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\ad.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/ae.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\ae.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/af.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\af.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/ag.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\ag.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/ai.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\ai.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/al.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\al.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/am.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\am.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/an.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\an.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/ao.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\ao.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/aq.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\aq.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/ar.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\ar.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/as.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\as.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/at.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\at.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/au.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\au.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/aw.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\aw.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/az.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\az.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/bb.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\bb.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/bd.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\bd.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/be.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\be.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/bf.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\bf.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/bg.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\bg.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/bh.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\bh.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/bi.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\bi.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/bj.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\bj.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/bl.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\bl.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/bm.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\bm.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/bn.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\bn.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/bo.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\bo.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/br.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\br.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/bs.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\bs.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/bt.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\bt.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/bv.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\bv.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/bw.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\bw.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/by.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\by.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/bz.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\bz.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/ca.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\ca.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/cc.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\cc.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/cd.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\cd.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/cf.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\cf.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/cg.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\cg.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/ch.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\ch.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/ci.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\ci.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/ck.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\ck.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/cl.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\cl.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/cm.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\cm.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/cn.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\cn.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/co.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\co.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/cr.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\cr.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/cu.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\cu.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/cv.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\cv.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/cx.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\cx.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/cy.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\cy.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/cz.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\cz.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/de.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\de.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/dj.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\dj.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/dk.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\dk.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/dm.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\dm.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/do.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\do.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/dz.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\dz.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/ec.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\ec.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/ee.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\ee.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/eg.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\eg.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/eh.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\eh.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/er.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\er.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/es.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\es.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/et.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\et.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/fi.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\fi.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/fj.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\fj.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/fk.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\fk.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/fm.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\fm.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/fo.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\fo.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/fr.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\fr.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/ga.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\ga.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/gb.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\gb.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/gd.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\gd.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/ge.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\ge.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/gf.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\gf.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/gh.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\gh.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/gi.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\gi.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/gl.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\gl.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/gm.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\gm.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/gn.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\gn.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/gp.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\gp.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/gq.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\gq.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/gr.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\gr.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/gs.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\gs.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/gt.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\gt.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/gu.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\gu.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/gw.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\gw.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/gy.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\gy.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/hk.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\hk.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/hn.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\hn.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/hr.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\hr.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/ht.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\ht.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/hu.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\hu.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/id.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\id.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/ie.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\ie.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/il.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\il.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/im.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\im.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/in.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\in.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/io.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\io.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/iq.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\iq.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/is.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\is.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/it.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\it.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/je.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\je.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/jm.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\jm.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/jo.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\jo.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/jp.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\jp.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/ke.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\ke.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/kg.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\kg.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/kh.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\kh.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/ki.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\ki.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/km.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\km.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/kn.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\kn.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/kr.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\kr.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/kw.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\kw.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/ky.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\ky.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/kz.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\kz.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/la.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\la.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/lb.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\lb.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/lc.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\lc.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/li.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\li.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/lk.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\lk.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/lr.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\lr.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/ls.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\ls.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/lt.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\lt.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/lu.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\lu.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/lv.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\lv.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/ly.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\ly.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/ma.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\ma.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/mc.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\mc.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/md.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\md.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/me.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\me.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/mf.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\mf.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/mg.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\mg.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/mh.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\mh.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/mk.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\mk.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/ml.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\ml.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/mm.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\mm.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/mn.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\mn.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/mo.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\mo.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/mp.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\mp.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/mq.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\mq.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/mr.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\mr.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/ms.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\ms.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/mt.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\mt.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/mu.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\mu.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/mv.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\mv.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/mw.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\mw.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/mx.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\mx.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/my.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\my.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/mz.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\mz.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/na.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\na.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/nc.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\nc.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/ne.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\ne.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/nf.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\nf.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/ng.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\ng.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/ni.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\ni.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/nl.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\nl.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/no.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\no.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/np.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\np.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/nr.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\nr.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/nu.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\nu.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/nz.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\nz.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/om.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\om.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/pa.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\pa.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/pe.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\pe.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/pf.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\pf.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/pg.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\pg.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/ph.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\ph.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/pk.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\pk.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/pl.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\pl.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/pm.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\pm.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/pn.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\pn.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/pr.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\pr.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/ps.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\ps.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/pt.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\pt.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/pw.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\pw.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/py.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\py.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/qa.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\qa.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/re.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\re.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/ro.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\ro.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/rs.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\rs.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/ru.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\ru.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/rw.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\rw.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/sa.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\sa.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/sb.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\sb.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/sc.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\sc.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/sd.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\sd.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/se.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\se.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/sg.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\sg.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/sh.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\sh.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/si.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\si.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/sj.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\sj.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/sk.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\sk.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/sl.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\sl.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/sm.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\sm.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/sn.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\sn.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/so.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\so.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/sr.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\sr.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/st.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\st.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/sv.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\sv.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/sy.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\sy.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/sz.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\sz.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/tc.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\tc.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/td.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\td.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/tf.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\tf.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/tg.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\tg.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/th.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\th.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/tj.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\tj.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/tk.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\tk.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/tl.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\tl.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/tm.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\tm.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/tn.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\tn.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/to.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\to.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/tr.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\tr.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/tt.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\tt.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/tv.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\tv.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/tw.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\tw.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/tz.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\tz.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/ua.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\ua.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/ug.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\ug.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/um.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\um.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/us.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\us.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/uy.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\uy.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/uz.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\uz.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/va.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\va.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/vc.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\vc.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/ve.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\ve.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/vg.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\vg.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/vi.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\vi.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/vn.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\vn.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/vu.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\vu.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/wf.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\wf.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/ws.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\ws.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/ye.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\ye.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/yt.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\yt.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/za.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\za.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/zm.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\zm.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/flag/svg/zw.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\flag\svg\zw.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/cdn/img/home/desktop-dark-min-sun-moon.png
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\home\desktop-dark-min-sun-moon.png
+Content Type: image/png
+
+Uri: https://tr.link/webroot/cdn/img/home/green.png
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\home\green.png
+Content Type: image/png
+
+Uri: https://tr.link/webroot/cdn/img/home/odeme-min.png
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\home\odeme-min.png
+Content Type: image/png
+
+Uri: https://tr.link/webroot/cdn/img/home/pc-gece.png?v=1
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\home\pc-gece.png
+Content Type: image/png
+
+Uri: https://tr.link/webroot/cdn/img/home/pc-gunduz.png?v=1
+File Name: C:\Downloaded Web Sites\tr.link\webroot\cdn\img\home\pc-gunduz.png
+Content Type: image/png
+
+Uri: https://tr.link/webroot/img/bagis.jpg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\img\bagis.jpg
+Content Type: image/jpeg
+
+Uri: https://tr.link/webroot/img/baslik.png
+File Name: C:\Downloaded Web Sites\tr.link\webroot\img\baslik.png
+Content Type: image/png
+
+Uri: https://tr.link/webroot/img/logo/Tr.link-beyaz-tr.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\img\logo\Tr.link-beyaz-tr.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/img/logo/Tr.link-Favicon-v2-purple.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\img\logo\Tr.link-Favicon-v2-purple.svg
+Content Type: image/svg+xml
+
+Uri: https://tr.link/webroot/img/logo/Tr.link-light-tr.svg
+File Name: C:\Downloaded Web Sites\tr.link\webroot\img\logo\Tr.link-light-tr.svg
+Content Type: image/svg+xml
+
+Uri: https://unpkg.com/flowbite@1.4.1/dist/flowbite.js
+File Name: C:\Downloaded Web Sites\tr.link\flowbite@1.4.1\dist\flowbite.js
+Content Type: application/javascript
+
+Uri: https://www.google.com/recaptcha/api.js
+File Name: C:\Downloaded Web Sites\tr.link\recaptcha\api-1.js
+Content Type: text/javascript
+
+Uri: https://www.google.com/recaptcha/api.js?onload=onloadRecaptchaCallback&render=explicit
+File Name: C:\Downloaded Web Sites\tr.link\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-127828285-1
+File Name: C:\Downloaded Web Sites\tr.link\gtag\js
+Content Type: application/javascript
+
